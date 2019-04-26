@@ -69,4 +69,6 @@ a, .footnote-line {
      counter-increment: h3;
      content: counter(h2) "." counter(h3) ". " 
 }
- 
+ .md-toc-h1 {
+  display: none;
+}
