@@ -1,11 +1,9 @@
 /* Turing CSS */
 /* By Mistrza */
 
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
-
 body {
     color: #333;
-    font-family: "Roboto Mono", monospace;
+    font-family: "Courier New", monospace;
     font-weight: bold;
     text-decoration-skip: none;
     text-align: justify;
@@ -25,6 +23,10 @@ h1 {
 
 h1:not(:first-of-type), h2, h3, em, th, .cm-keyword {
     text-decoration: underline;
+}
+
+p {
+    text-indent: 2em;
 }
 
 blockquote, strong {
@@ -65,6 +67,7 @@ ul {
 }
 
 .cm-s-inner * {
+    font-family: "Courier New", monospace !important;
     color: #333 !important;
 }
 
