@@ -13,8 +13,8 @@ You can find example documents (written in French) [here](https://github.com/mis
 # Document title
 
 <p style="text-align: center">
-A. Uthor
-University
+A. Uthor</br>
+University</br>
 author@mail.com
 </p>
 
