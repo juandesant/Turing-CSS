@@ -7,6 +7,13 @@ You can find example documents (written in French) [here](https://github.com/mis
 
 *Note*: Numbering is automatic.
 
+## How to install?
+
+1. Download the [raw file](https://raw.githubusercontent.com/mistrza/Turing-CSS/master/turing.css) or copy-paste its content in a text editor and save the file as `turing.css`
+2. Move the file to themes folder (click on the dedicated button in Typora preferences)
+3. Restrart Typora
+4. Select Turing in the `Themes` menu
+
 ## Use
 
 ```markdown
