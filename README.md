@@ -19,11 +19,9 @@ You can find example documents (written in French) [here](https://github.com/mis
 ```markdown
 # Document title
 
-<p style="text-align: center">
-A. Uthor</br>
-University</br>
+A. Uthor
+University
 author@mail.com
-</p>
 
 # Abstract
 
