@@ -3,7 +3,7 @@
 
 body {
     color: #333;
-    font-family: "Courier New", monospace;
+    font-family: "CMU Typewriter Text", "Courier New", monospace;
     font-weight: bold;
     text-decoration-skip: none;
     text-align: justify;
@@ -72,7 +72,7 @@ ul {
 }
 
 .cm-s-inner * {
-    font-family: "Courier New", monospace !important;
+    font-family: "CMU Typewriter Text", "Courier New", monospace !important;
     color: #333 !important;
 }
 
